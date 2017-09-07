@@ -1,0 +1,1 @@
+Tugas pada week 1 ini mengajarkan saya tentang perintah-perintah dasar github, commandline,serta scripting
