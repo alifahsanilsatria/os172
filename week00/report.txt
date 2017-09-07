@@ -1,0 +1,1 @@
+Di tugas week 0, kita disuruh bikin akun github, bikin repository, dan memberitahukan akun github kita ke OS Fasilkom supaya dapet akses SSH ke server badak.cs.ui.ac.id. Setelah itu, kita disuruh login ke server itu dengan mengikuti langkah-langkah yang diberikan. Selesai. #Alif Ahsanil Satria
